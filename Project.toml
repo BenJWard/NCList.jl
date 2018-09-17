@@ -1,0 +1,6 @@
+authors = ["Ben J. Ward <ward9250@gmail.com>"]
+name = "NCLists"
+uuid = "27ed12ea-b873-11e8-2de9-c131543a34a8"
+version = "0.1.0"
+
+[deps]
